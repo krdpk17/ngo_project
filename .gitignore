@@ -100,7 +100,6 @@ lint/tmp/
 # Gradle specific
 *.bin
 *.lock
-*.properties
 *.txt
 
 # Build scripts
