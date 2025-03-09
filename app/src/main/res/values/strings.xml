@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">NGO App</string>
+    <string name="app_name">NGO Project</string>
     <string name="welcome_text">Welcome to NGO App!</string>
     <string name="click_button_text">Click Me!</string>
 </resources> 
