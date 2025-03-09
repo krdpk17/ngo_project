@@ -101,4 +101,13 @@ lint/tmp/
 *.bin
 *.lock
 *.properties
-*.txt 
+*.txt
+
+# Build scripts
+*.sh
+generate_icons.sh
+
+# Gradle configuration files
+settings.gradle
+build.gradle
+gradle.properties 
